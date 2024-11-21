@@ -3,7 +3,7 @@
 # 11/21/2024
 # Lab 10
 # Lab Section: 12
-# Sources, people worked with, help given to: 
+# Sources, people worked with, help given to: Reuben Macguire, Peter Martinez, Cole Johnson
 # your
 # comments
 # here
